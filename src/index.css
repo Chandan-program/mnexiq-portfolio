@@ -66,6 +66,10 @@
     /* Animations */
     --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     --transition-bounce: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    
+    /* Additional animations for modern UI */
+    --animate-gradient-x: gradient-x 15s ease infinite;
+    --animate-spin-slow: spin 20s linear infinite;
 
     --sidebar-background: 0 0% 98%;
 
